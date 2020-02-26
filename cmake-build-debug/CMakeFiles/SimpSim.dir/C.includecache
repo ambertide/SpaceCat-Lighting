@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/egeem/CLionProjects/SimpSim/src/spacecat_vm.c
+stdio.h
+-
+string.h
+-
+math.h
+-
+spacecat_vm.h
+C:/Users/egeem/CLionProjects/SimpSim/src/spacecat_vm.h
+
+C:/Users/egeem/CLionProjects/SimpSim/src/spacecat_vm.h
+
