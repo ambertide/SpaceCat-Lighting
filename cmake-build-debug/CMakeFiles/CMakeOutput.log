@@ -26,25 +26,25 @@ The C compiler identification is MSVC, found in "C:/Users/egeem/CLionProjects/Si
 Determining if the C compiler works passed with the following output:
 Change Dir: C:/Users/egeem/CLionProjects/SimpSim/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake /nologo cmTC_5a8a7\fast 
-	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_5a8a7.dir\build.make /nologo -L                  CMakeFiles\cmTC_5a8a7.dir\build
-Building C object CMakeFiles/cmTC_5a8a7.dir/testCCompiler.c.obj
-	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1422~1.279\bin\Hostx86\x86\cl.exe @C:\Users\egeem\AppData\Local\Temp\nmF472.tmp
+Run Build Command(s):nmake /nologo cmTC_cd884\fast 
+	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_cd884.dir\build.make /nologo -L                  CMakeFiles\cmTC_cd884.dir\build
+Building C object CMakeFiles/cmTC_cd884.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1422~1.279\bin\Hostx86\x86\cl.exe @C:\Users\egeem\AppData\Local\Temp\nm449B.tmp
 testCCompiler.c
-Linking C executable cmTC_5a8a7.exe
-	"C:\Program Files\JetBrains\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_5a8a7.dir --rc="D:\Windows Kits\10\bin\10.0.17763.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.17763.0\x86\mt.exe" --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1422~1.279\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_5a8a7.dir\objects1.rsp @C:\Users\egeem\AppData\Local\Temp\nmF5BC.tmp
+Linking C executable cmTC_cd884.exe
+	"C:\Program Files\JetBrains\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_cd884.dir --rc="D:\Windows Kits\10\bin\10.0.17763.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.17763.0\x86\mt.exe" --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1422~1.279\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_cd884.dir\objects1.rsp @C:\Users\egeem\AppData\Local\Temp\nm45E4.tmp
 
 
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: C:/Users/egeem/CLionProjects/SimpSim/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake /nologo cmTC_6052c\fast 
-	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_6052c.dir\build.make /nologo -L                  CMakeFiles\cmTC_6052c.dir\build
-Building C object CMakeFiles/cmTC_6052c.dir/CMakeCCompilerABI.c.obj
-	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1422~1.279\bin\Hostx86\x86\cl.exe @C:\Users\egeem\AppData\Local\Temp\nmF9F1.tmp
+Run Build Command(s):nmake /nologo cmTC_afc9f\fast 
+	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_afc9f.dir\build.make /nologo -L                  CMakeFiles\cmTC_afc9f.dir\build
+Building C object CMakeFiles/cmTC_afc9f.dir/CMakeCCompilerABI.c.obj
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1422~1.279\bin\Hostx86\x86\cl.exe @C:\Users\egeem\AppData\Local\Temp\nm47B8.tmp
 CMakeCCompilerABI.c
-Linking C executable cmTC_6052c.exe
-	"C:\Program Files\JetBrains\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_6052c.dir --rc="D:\Windows Kits\10\bin\10.0.17763.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.17763.0\x86\mt.exe" --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1422~1.279\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_6052c.dir\objects1.rsp @C:\Users\egeem\AppData\Local\Temp\nmFA4F.tmp
+Linking C executable cmTC_afc9f.exe
+	"C:\Program Files\JetBrains\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_afc9f.dir --rc="D:\Windows Kits\10\bin\10.0.17763.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.17763.0\x86\mt.exe" --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1422~1.279\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_afc9f.dir\objects1.rsp @C:\Users\egeem\AppData\Local\Temp\nm4855.tmp
 
 
 
@@ -52,13 +52,13 @@ Linking C executable cmTC_6052c.exe
 Detecting C [] compiler features compiled with the following output:
 Change Dir: C:/Users/egeem/CLionProjects/SimpSim/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake /nologo cmTC_175ac\fast 
-	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_175ac.dir\build.make /nologo -L                  CMakeFiles\cmTC_175ac.dir\build
-Building C object CMakeFiles/cmTC_175ac.dir/feature_tests.c.obj
-	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1422~1.279\bin\Hostx86\x86\cl.exe @C:\Users\egeem\AppData\Local\Temp\nmFDE8.tmp
+Run Build Command(s):nmake /nologo cmTC_f4e79\fast 
+	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_f4e79.dir\build.make /nologo -L                  CMakeFiles\cmTC_f4e79.dir\build
+Building C object CMakeFiles/cmTC_f4e79.dir/feature_tests.c.obj
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1422~1.279\bin\Hostx86\x86\cl.exe @C:\Users\egeem\AppData\Local\Temp\nm4A29.tmp
 feature_tests.c
-Linking C executable cmTC_175ac.exe
-	"C:\Program Files\JetBrains\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_175ac.dir --rc="D:\Windows Kits\10\bin\10.0.17763.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.17763.0\x86\mt.exe" --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1422~1.279\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_175ac.dir\objects1.rsp @C:\Users\egeem\AppData\Local\Temp\nmFE95.tmp
+Linking C executable cmTC_f4e79.exe
+	"C:\Program Files\JetBrains\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_f4e79.dir --rc="D:\Windows Kits\10\bin\10.0.17763.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.17763.0\x86\mt.exe" --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1422~1.279\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_f4e79.dir\objects1.rsp @C:\Users\egeem\AppData\Local\Temp\nm4A69.tmp
 
 
     Feature record: C_FEATURE:1c_function_prototypes
